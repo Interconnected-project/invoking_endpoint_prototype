@@ -1,0 +1,16 @@
+{
+  "name": "invoking_endpoint_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-pre-gyp": "^0.17.0",
+    "socket.io-client": "^4.5.3",
+    "wrtc": "^0.4.7"
+  }
+}
